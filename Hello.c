@@ -6,5 +6,6 @@ int main()
    printf("Hello, World!");
    printf("Enter Ur Name");
    scanf("%s",Name);
+   printf("So its %s",Name);
    return 0;
 }
